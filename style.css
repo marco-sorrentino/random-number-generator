@@ -90,7 +90,7 @@ h4 {
   font-family: var(--ff-primary);
 }
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 h2 {
   font-size: 2rem;
@@ -194,4 +194,8 @@ main {
 .btn:hover {
   color: var(--clr-white);
   background: var(--clr-black);
+}
+
+h1 {
+  font-size: 2rem;
 }
